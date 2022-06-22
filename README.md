@@ -10,7 +10,7 @@ After we read a photo, we changed it from rgb mode to gray mode. Then we make th
 
 orginal image             |  noisy image
 :-------------------------:|:-------------------------:
-![](https://github.com/bardiadelagah/Contrast_Stretching/blob/main/3.jpg)  |  ![](https://github.com/bardiadelagah/Contrast_Stretching/blob/main/9.jpg)
+![](https://github.com/bardiadelagah/remove_noise_by_bit_plane_slicing/blob/main/5.jpg)  |  ![](https://github.com/bardiadelagah/remove_noise_by_bit_plane_slicing/blob/main/5-nosy.jpg)
 
 
 
