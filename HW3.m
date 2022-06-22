@@ -8,6 +8,8 @@ end
 
 img_saltNoise = imnoise(img,'salt & pepper', 0.05);
 
+imwrite(img_saltNoise,'5-nosy.jpg')
+
 bitpage_img = listbitget(img);
 bitpage_img_saltNoise = listbitget(img_saltNoise);
 
