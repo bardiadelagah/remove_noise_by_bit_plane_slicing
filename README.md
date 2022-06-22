@@ -16,7 +16,7 @@ orginal image             |  noisy image
 Now we concat all Bit Plane with a value of 0 to 3 in one image and 4 to 7 as another image. As you can see remove Bit Plane with low value can reduce the effect of noise without any damage to image.
 
 
-(https://github.com/bardiadelagah/remove_noise_by_bit_plane_slicing/blob/main/5-nosy.jpg)
+![](https://github.com/bardiadelagah/remove_noise_by_bit_plane_slicing/blob/main/5-nosy.jpg)
 
 ## Donate us
 If you like our project and it's useful, feel free to donate us.
